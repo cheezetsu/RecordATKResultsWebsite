@@ -18,8 +18,8 @@ The Record ATK website is used to enter student information, vaccination informa
 - [x] Fill out the information for vaccination against COVID-19
 - [x] Fill out the ATK test result
 - [x] Displays the list of students who performs ATK checks
-- [x] Search for students who performs ATK checks
-- [x] Search for students with COVID-19 who have received a bed or been hospitalized
+- [ ] Search for students who performs ATK checks
+- [ ] Search for students with COVID-19 who have received a bed or been hospitalized
 - [x] Displays the status for COVID-19 patients seeking a bed or seeking treatment
 
 ---
